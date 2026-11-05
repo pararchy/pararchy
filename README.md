@@ -23,7 +23,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />
+      <img align="right" width="250" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Pari" />
       
 <blockquote>
 
@@ -71,21 +71,6 @@ When I'm not at the keyboard, I like playing the piano, travelling and getting m
   
 
 
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
-
-<a href="https://github.com/Fovvy/Fovvy/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
-       
-
-</p>
-</details>
-
 
 
 
@@ -96,7 +81,7 @@ When I'm not at the keyboard, I like playing the piano, travelling and getting m
 
 </details>
 
-<p align="center"><a href="https:parastus.me</sub></sup></a></p>
+<p align="center"><sub><a href="https://parastus.me">parastus.me 🌱</a></sub></p>
 
 
 
