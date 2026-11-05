@@ -15,7 +15,7 @@
    
 <!-- Outer collapsible -->  
 <details>
-   <summary><b>✰ There’s more down here</b></summary>
+   <summary><b>✶ Click to unravel more</b></summary>
   
    <br>
    
@@ -27,15 +27,11 @@
       
 <blockquote>
 
-I'm a Backend engineer based in Namibia, And I love tinkering/ricing Linux (i use arch btw), Building Software with character & Open Source!
-  
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
+I build tools and the agents that use them — Para CLI, a personal grimoire of spells, and a small forest of AI personas. Most of my code is software with a bit of character.
 
-I also enjoy attending hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
+I self-host what I can: a homelab, my own services, my own tools. If it can run on my machines instead of someone else's, it probably does.
 
-I have a small homelab, which I'm using to learn more about system administration, and host my own services & tools. 
-
-When I'm not at the keyboard, I like playing the piano, travelling and getting my hands in the soil 🌱.
+When I'm not at the keyboard, I'm playing the piano, travelling, or getting my hands in the soil 🌱.
 
 </blockquote>
     
