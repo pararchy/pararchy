@@ -89,9 +89,9 @@ When I'm not at the keyboard, I like playing the piano, travelling and getting m
 
 
 
-<!-- Snek -->   
+<!-- Koi -->
 <p align="center">
-<a href="https://gitstar-ranking.com/Fovvy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+  <img src="koi/koi.gif" width="256" alt="A koi drawn from my GitHub activity, redrawn every night" title="Koi 🐟" />
 </p>
 
 </details>
